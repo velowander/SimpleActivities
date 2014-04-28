@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lovelace and Brin</string>
+    <string name="celeb_full_name_01">Ada Lovelace</string>
+    <string name="celeb_full_name_02">Sergey Brin</string>
+    <string name="celeb_portrait_01_content_description">Carpenter Portrait of Ada Lovelace</string>
+    <string name="celeb_01_biography"><b>Birth Name:</b>\tAugusta Ada Byron\n<b>Name in Adulthood:</b>\tAugusta Ada King, Countess of Lovelace\n<b>Born:</b>\tDecember 10, 1815\n<b>Birthplace:</b>\tLondon, England\n<b>Died:</b>\tNovember 27, 1852\n<b>Known For:</b>\tFirst \"computer programmer\", early female mathematician, only legitimate daughter of poet Lord Byron\n<b>Summary:</b>\tEnglish mathematician and writer chiefly known for her work on Charles Babbage\'s early mechanical general-purpose computer, the Analytical Engine. Her notes on the engine include what is recognised as the first algorithm intended to be carried out by a machine. Because of this, she is often described as the world\'s first computer programmer.\n<b>Personal Life:</b>\tAda\'s Father, Lord Byron, separated from his wife a month after Ada was born and left England forever four months later, eventually dying of disease in the Greek War of Independence when Ada was eight years old. Ada\'s mother remained bitter at Lord Byron and promoted Ada\'s interest in mathematics and logic in an effort to prevent her from developing what she saw as the insanity seen in her father.\n\n<i>Text: summarized from Wikipedia\nImage: Wikimedia Commons</i></string>
+    <string name="celeb_02_biography"><b>Born:</b>\tAugust 21, 1973\n<b>Birthplace:</b>\tMoscow, Russia\n<b>Nationality:</b>\tUnited States\n<b>Known For:</b>\tFounder of Google\nBrin immigrated to the United States with his family from the Soviet Union at the age of six. He earned his undergraduate degree at the University of Maryland, following in his father\'s and grandfather\'s footsteps by studying mathematics, as well as computer science. After graduation, he moved to Stanford University to acquire a PhD in computer science. There he met Larry Page, with whom he later became friends. They crammed their dormitory room with inexpensive computers and applied Brin\'s data mining system to build a superior search engine. The program became popular at Stanford and they suspended their PhD studies to start up Google in a rented garage.\n\n<i>Text: summarized from Wikipedia\nImage: Wikimedia Commons</i></string>
+    <string name="action_settings">Settings</string>
+
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.fanchuan.coursera">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- Gradle build system puts uses-sdk information in build.gradle not here -->
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_jabberwocky"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="org.fanchuan.coursera.JabberWockyActivity"
+            android:icon="@drawable/ic_jabberwocky"
+            android:label="@string/jw_title"
+            android:screenOrientation="portrait"
+            android:theme="@style/Jabberwocky">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="org.fanchuan.coursera.NASAActivity"
+            android:icon="@drawable/ic_shuttle"
+            android:label="@string/nasa_title"
+            android:screenOrientation="portrait"
+            android:theme="@style/NASA">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="org.fanchuan.coursera.RoundBallActivity"
+            android:icon="@drawable/ic_volleyball"
+            android:label="@string/rb_title"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="org.fanchuan.coursera.WarOfTheWorldsActivity"
+            android:icon="@drawable/ic_wotw"
+            android:label="@string/wotw_title"
+            android:screenOrientation="portrait"
+            android:theme="@style/Jabberwocky">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

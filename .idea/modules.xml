@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FourActivities/FourActivities.iml" filepath="$PROJECT_DIR$/FourActivities/FourActivities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lovelace_Brin/Lovelace_Brin.iml" filepath="$PROJECT_DIR$/Lovelace_Brin/Lovelace_Brin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleActivities.iml" filepath="$PROJECT_DIR$/SimpleActivities.iml" />
+    </modules>
+  </component>
+</project>
+
